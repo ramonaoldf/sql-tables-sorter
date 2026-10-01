@@ -10,7 +10,7 @@ Calculates the right order of the tables from a SQL creation script (for example
 
 First, clone or fork the repository:
 ```
-$ git clone git@github.com:ttulka/sql-tables-sorter.git
+$ git clone git@github.com:ramonaoldf/sql-tables-sorter.git
 $ cd sql-tables-sorter
 ```
 Now build it:
